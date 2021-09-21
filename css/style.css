@@ -5,6 +5,9 @@
     box-sizing: border-box;
     font-family: sans-serif;
 } */
+body{
+    background: url(/images/background-5574014_1920.png)center center /cover no-repeat;
+}
 #question{
     font-size: 1.2rem;
     font-weight: 600;
