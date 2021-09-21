@@ -61,7 +61,7 @@ const input =document.querySelectorAll("input")
                 }
             }
             else{
-                alert("please choose one of them")
+                alert("Please choose an answer.")
             }
         });
 
