@@ -37,6 +37,11 @@ img[alt="logo"]:hover{
     transform-origin: bottom center;
     animation: logoanimation 2s infinite alternate;
 }
+nav a .bi{
+    /* background-color: slateblue; */
+    position: relative;
+    bottom: 6px;
+}
 @keyframes logoanimation {
     0%{
         transform: rotate(60deg);
