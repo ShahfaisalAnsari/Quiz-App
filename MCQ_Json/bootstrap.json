@@ -1,42 +1,82 @@
 [
     {
-        "question": "Q1: bootstrap stands for -",
-        "a":"Cascade style sheets",
-        "b":"Color and style sheets",
-        "c":"Cascading style sheets",
-        "d":"None of these",
-        "ans":"ans3"
+        "question": "Q1: Who developed the bootstrap?",
+        "a":"James Gosling",
+        "b":"Mark Jukervich",
+        "c":"Dennis Ritchie",
+        "d":"Mark Otto and Jacob Thornton",
+        "ans":"ans4"
     },
     {
-        "question": "Q2: The property in CSS used to change the background color of an element is -",
-        "a":"bgcolor",
-        "b":"color",
-        "c":"background-color",
+        "question": "Q2: Is Bootstrap3 mobile-first?",
+        "a":"True",
+        "b":"False",
+        "c":"Can't say",
+        "d":"May be",
+        "ans":"ans1"
+    },
+    {
+        "question": "Q3: Which of the following class in Bootstrap is used to provide a responsive fixed width container?",
+        "a":".container-fixed",
+        "b":".container-fluid",
+        "c":".container",
         "d":"All of the above",
         "ans":"ans3"
     },
     {
-        "question": "Q3: The CSS property used to control the element's font-size is -",
-        "a":"text-style",
-        "b":"text-size",
-        "c":"font-size",
+        "question": "Q4: How many columns are allowed in a bootstrap grid system?",
+        "a":"2",
+        "b":"12",
+        "c":"3",
+        "d":"5",
+        "ans":"ans2"
+    },
+    {
+        "question": "Q5: Which of the following class in bootstrap is used to create a big box for calling extra attention?",
+        "a":".box",
+        "b":".container",
+        "c":".container-fluid",
+        "d":".jumbotron",
+        "ans":"ans4"
+    },
+    {
+        "question": "Q6: Which of the following class is used to create a black navigation bar?",
+        "a":".navbar-default",
+        "b":".navbar-inverse",
+        "c":".navbar-black",
+        "d":".navbar-dark",
+        "ans":"ans2"
+    },
+    {
+        "question": "Q7: The plugin used to create a cycle through elements as a slideshow is -",
+        "a":"slideshow",
+        "b":"scrollspy",
+        "c":"carousel",
         "d":"None of the above",
         "ans":"ans3"
     },
     {
-        "question": "Q4: The HTML attribute used to define the inline styles is -",
-        "a":"style",
-        "b":"styles",
-        "c":"class",
+        "question": "Q8: Which of the following class in bootstrap is used to create a big box for calling extra attention?",
+        "a":".box",
+        "b":".container",
+        "c":".container-fluid",
+        "d":".jumbotron",
+        "ans":"ans4"
+    },
+    {
+        "question": "Q9: Which of the following class in Bootstrap is used to create a dropdown menu?",
+        "a":".dropdown",
+        "b":".select",
+        "c":".select-list",
         "d":"None of the above",
         "ans":"ans1"
     },
     {
-        "question": "Q5: Which of the following CSS property is used to set the background image of an element?",
-        "a":"background-attachment",
-        "b":"background-image",
-        "c":"background-color",
-        "d":"None of the above",
-        "ans":"ans2"
+        "question": "Q10:  Which of the following class in Bootstrap is used to create a basic list group?",
+        "a":".grouped-list",
+        "b":".select-list",
+        "c":".list-group",
+        "d":".list-grouped",
+        "ans":"ans3"
     }
 ]

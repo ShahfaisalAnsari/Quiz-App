@@ -1,42 +1,82 @@
 [
     {
-        "question": "Q1: jquery stands for -",
-        "a":"Cascade style sheets",
-        "b":"Color and style sheets",
-        "c":"Cascading style sheets",
-        "d":"None of these",
+        "question": "Q1: Who developed jQuery, and in which year it was first released?",
+        "a":"John Richard in 2001",
+        "b":"Mark Bensman in 2004",
+        "c":"John Resig in 2006",
+        "d":"None of the above",
         "ans":"ans3"
     },
     {
-        "question": "Q2: The property in CSS used to change the background color of an element is -",
-        "a":"bgcolor",
-        "b":"color",
-        "c":"background-color",
+        "question": "Q2: jQuery is a -",
+        "a":"JavaScript method",
+        "b":"JavaScript library",
+        "c":"JSON library",
+        "d":"PHP method",
+        "ans":"ans2"
+    },
+    {
+        "question": "Q3: Which of the following sign is used as a shortcut for jQuery?",
+        "a":"the % sign",
+        "b":"the & sign",
+        "c":"the $ sign",
+        "d":"the @ sign",
+        "ans":"ans3"
+    },
+    {
+        "question": "Q4: $(this) in jQuery is used when -",
+        "a":"an HTML element references the entire document",
+        "b":"an HTML element references its own action",
+        "c":"an HTML element references the action of its parent element",
+        "d":"All of the above",
+        "ans":"ans2"
+    },
+    {
+        "question": "Q5: Which of the following jQuery method is used to hide the selected elements?",
+        "a":"The hidden() method",
+        "b":"The hide() method",
+        "c":"The visible(false) method",
+        "d":"The display(none) method",
+        "ans":"ans2"
+    },
+    {
+        "question": "Q6: Which jQuery method is used to set one or more style properties to the selected element?",
+        "a":"The html() method",
+        "b":"The style() method",
+        "c":"The css() method",
         "d":"All of the above",
         "ans":"ans3"
     },
     {
-        "question": "Q3: The CSS property used to control the element's font-size is -",
-        "a":"text-style",
-        "b":"text-size",
-        "c":"font-size",
+        "question": "Q7:  Which of the following jQuery method is used to attach a handler to an event?",
+        "a":"unbind() method",
+        "b":"attach() method",
+        "c":"bind() method",
         "d":"None of the above",
         "ans":"ans3"
     },
     {
-        "question": "Q4: The HTML attribute used to define the inline styles is -",
-        "a":"style",
-        "b":"styles",
-        "c":"class",
+        "question": "Q8: The jQuery method used to perform an asynchronous HTTP request -",
+        "a":"jQuery ajaxSetup() method",
+        "b":"jQuery ajaxSync() method",
+        "c":"jQuery ajax() method",
         "d":"None of the above",
-        "ans":"ans1"
+        "ans":"ans3"
     },
     {
-        "question": "Q5: Which of the following CSS property is used to set the background image of an element?",
-        "a":"background-attachment",
-        "b":"background-image",
-        "c":"background-color",
-        "d":"None of the above",
+        "question": "Q9: Which of the following jQuery method is used to stop jQuery for few milliseconds?",
+        "a":"stop() method",
+        "b":"delay() method",
+        "c":"slowdown() method",
+        "d":"pause() method",
         "ans":"ans2"
+    },
+    {
+        "question": "Q10: Which of the jQuery function prevents the code from running before the loading of the document finishes?",
+        "a":"$(document).load()",
+        "b":"$(document).unload()",
+        "c":"$(document).ready()",
+        "d":"$(document).trim()",
+        "ans":"ans3"
     }
 ]

@@ -1,42 +1,82 @@
 [
     {
-        "question": "Q1: SASS stands for -",
-        "a":"Cascade style sheets",
-        "b":"Color and style sheets",
-        "c":"Cascading style sheets",
-        "d":"None of these",
-        "ans":"ans3"
+        "question": "Q1: What is the correct full form of SASS?",
+        "a":"Syntactically Awesome Style Sheets",
+        "b":"Systematic Awesome Style Sheets",
+        "c":"Symbolic Asymmetric Style Sheets",
+        "d":"None of the above.",
+        "ans":"ans1"
     },
     {
-        "question": "Q2: The property in CSS used to change the background color of an element is -",
-        "a":"bgcolor",
-        "b":"color",
-        "c":"background-color",
+        "question": "Q2: Who is the designer of SASS?",
+        "a":"James Gosling",
+        "b":"Hampton Catlin",
+        "c":"Guido van Rossum",
+        "d":"Misko Hevery",
+        "ans":"ans2"
+    },
+    {
+        "question": "Q3: How many ways we can use Sass in our application?",
+        "a":"We can use Sass in our application as a command-line tool.",
+        "b":"We can use Sass in our application as a standalone Ruby module.",
+        "c":"We can use Sass in our application as a plugin for any Rack-enabled framework.",
         "d":"All of the above",
-        "ans":"ans3"
+        "ans":"ans4"
     },
     {
-        "question": "Q3: The CSS property used to control the element's font-size is -",
-        "a":"text-style",
-        "b":"text-size",
-        "c":"font-size",
+        "question": "Q4: Which of the following directive is used to share rules and relationships between selectors in SASS?",
+        "a":"@extend",
+        "b":"@media",
+        "c":"@extend",
         "d":"None of the above",
         "ans":"ans3"
     },
     {
-        "question": "Q4: The HTML attribute used to define the inline styles is -",
-        "a":"style",
-        "b":"styles",
-        "c":"class",
+        "question": "Q5: Which of the following are the most attractive features of SASS?",
+        "a":"SASS is more stable, powerful, and fully compatible with CSS3.",
+        "b":"SASS is time-saving because it facilitates users to write CSS in less code.",
+        "c":"SASS uses its syntax.",
+        "d":"All of the above.",
+        "ans":"ans4"
+    },
+    {
+        "question": "Q6: Which of the following directive is used to set the style rule to different media types?",
+        "a":"@media",
+        "b":"@import",
+        "c":"@extend",
+        "d":"@debug",
+        "ans":"ans1"
+    },
+    {
+        "question": "Q7: Which of the following is the main reason behind using SASS?",
+        "a":"SASS facilitates us to write codes easily and efficiently, and they are easy to maintain",
+        "b":"SASS is a pre-processing language that provides its syntax.",
+        "c":"SASS is a superset of CSS that contains all CSS features and is an open-source pre-processor coded in Ruby.",
+        "d":"All of the above.",
+        "ans":"ans4"
+    },
+    {
+        "question": "Q8:What are the key features of SASS?",
+        "a":"SASS is a CSS pre-processor with syntax advancements and an extension of CSS3.",
+        "b":"SASS has two syntaxes. The first syntax is SCSS, and it uses the .scss extension.",
+        "c":"SASS supports language extensions such as nesting, variables, and mixins.",
+        "d":"All of the above.",
+        "ans":"ans4"
+    },
+    {
+        "question": "Q9: Which of the following directive is used to display the SassScript expression value as a fatal error?",
+        "a":"@error",
+        "b":"@warn",
+        "c":"@at-root",
         "d":"None of the above",
         "ans":"ans1"
     },
     {
-        "question": "Q5: Which of the following CSS property is used to set the background image of an element?",
-        "a":"background-attachment",
-        "b":"background-image",
-        "c":"background-color",
-        "d":"None of the above",
-        "ans":"ans2"
+        "question": "Q10: What is the correct way to define a variable in SASS?",
+        "a":"$primary-color: #888",
+        "b":"@primary-color: #888",
+        "c":"%primary-color: #888",
+        "d":"#primary-color: #888",
+        "ans":"ans1"
     }
 ]

@@ -1,42 +1,82 @@
 [
     {
-        "question": "Q1: JS stands for -",
-        "a":"Cascade style sheets",
-        "b":"Color and style sheets",
-        "c":"Cascading style sheets",
-        "d":"None of these",
+        "question": "Q1: Which type of JavaScript language is ___",
+        "a":"Object-Oriented",
+        "b":"Object-Based",
+        "c":"Assembly-language",
+        "d":"High-level",
+        "ans":"ans2"
+    },
+    {
+        "question": "Q2: Which one of the following also known as Conditional Expression:",
+        "a":"Alternative to if-else",
+        "b":"Switch statement",
+        "c":"If-then-else statement",
+        "d":"immediate if",
+        "ans":"ans4"
+    },
+    {
+        "question": "Q3: In JavaScript, what is a block of statement?",
+        "a":"Conditional block",
+        "b":"block that combines a number of statements into a single compound statement",
+        "c":"both conditional block and a single statement",
+        "d":"block that contains a single statement",
+        "ans":"ans2"
+    },
+    {
+        "question": "Q4:  When interpreter encounters an empty statements, what it will do",
+        "a":"Shows a warning",
+        "b":"Prompts to complete the statement",
+        "c":"Throws an error",
+        "d":"Ignores the statements",
+        "ans":"ans4"
+    },
+    {
+        "question": "Q5: Which one of the following is the correct way for calling the JavaScript code?",
+        "a":"Preprocessor",
+        "b":"Triggering Event",
+        "c":"RMI",
+        "d":"Function/Method",
+        "ans":"ans4"
+    },
+    {
+        "question": "Q6: Which of the following option is used as hexadecimal literal beginning?",
+        "a":"00",
+        "b":"0x",
+        "c":"0X",
+        "d":"Both 0x and 0X",
+        "ans":"ans4"
+    },
+    {
+        "question": "Q7:  When there is an indefinite or an infinite value during an arithmetic computation in a program, then JavaScript prints______.",
+        "a":"Prints an exception error",
+        "b":"Prints an overflow error",
+        "c":"Displays 'Infinity'",
+        "d":"Prints the value as such",
         "ans":"ans3"
     },
     {
-        "question": "Q2: The property in CSS used to change the background color of an element is -",
-        "a":"bgcolor",
-        "b":"color",
-        "c":"background-color",
-        "d":"All of the above",
+        "question": "Q8: In the JavaScript, which one of the following is not considered as an error:",
+        "a":"Syntax error",
+        "b":"Missing of semicolons",
+        "c":"Division by zero",
+        "d":"Missing of Bracket",
         "ans":"ans3"
     },
     {
-        "question": "Q3: The CSS property used to control the element's font-size is -",
-        "a":"text-style",
-        "b":"text-size",
-        "c":"font-size",
-        "d":"None of the above",
-        "ans":"ans3"
+        "question": "Q9: Which of the following givenfunctions of the Number Object formats a number with a different number of digits to the right of the decimal?",
+        "a":"toExponential()",
+        "b":"toFixed()",
+        "c":"toPrecision()",
+        "d":"toLocaleString()",
+        "ans":"ans2"
     },
     {
-        "question": "Q4: The HTML attribute used to define the inline styles is -",
-        "a":"style",
-        "b":"styles",
-        "c":"class",
-        "d":"None of the above",
-        "ans":"ans1"
-    },
-    {
-        "question": "Q5: Which of the following CSS property is used to set the background image of an element?",
-        "a":"background-attachment",
-        "b":"background-image",
-        "c":"background-color",
-        "d":"None of the above",
+        "question": "Q10: Which of the following number object function returns the value of the number?",
+        "a":"toString()",
+        "b":"valueOf()",
+        "c":"toLocaleString()",
+        "d":"toPrecision()",
         "ans":"ans2"
     }
 ]

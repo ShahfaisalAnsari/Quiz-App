@@ -38,5 +38,45 @@
         "c":"background-color",
         "d":"None of the above",
         "ans":"ans2"
+    },
+    {
+        "question": "Q6: Which of the following is the correct syntax to make the background-color of all paragraph elements to yellow?",
+        "a":"p {background-color : yellow;}",
+        "b":"p {background-color : #yellow;}",
+        "c":"all {background-color : yellow;}",
+        "d":"all p {background-color : #yellow;}",
+        "ans":"ans1"
+    },
+    {
+        "question": "Q7: Which of the following property is used as the shorthand property for the padding properties?",
+        "a":"padding-left",
+        "b":"padding-right",
+        "c":"padding",
+        "d":"All of the above",
+        "ans":"ans3"
+    },
+    {
+        "question": "Q8: The CSS property used to make the text bold is -",
+        "a":"font-weight : bold",
+        "b":"weight: bold",
+        "c":"font: bold",
+        "d":"style: bold",
+        "ans":"ans1"
+    },
+    {
+        "question": "Q9: Are the negative values allowed in padding property?",
+        "a":"Yes",
+        "b":"No",
+        "c":"Can't say",
+        "d":"May be",
+        "ans":"ans2"
+    },
+    {
+        "question": "Q10: Which of the following property is used as the shorthand property of margin properties?",
+        "a":"margin-left",
+        "b":"margin-right",
+        "c":"margin",
+        "d":"None of the above",
+        "ans":"ans3"
     }
 ]
