@@ -31,3 +31,18 @@ ul{
 .scorearea{
     display: none;
 }
+.card:hover .card-header{
+    background-color: #74C0D0;
+}
+img[alt="logo"]:hover{
+    transform-origin: bottom center;
+    animation: logoanimation 2s infinite alternate;
+}
+@keyframes logoanimation {
+    0%{
+        transform: rotate(60deg);
+    }
+    100%{
+        transform: rotate(-60deg);
+    }
+}
