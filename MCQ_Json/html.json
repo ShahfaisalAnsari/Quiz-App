@@ -38,5 +38,45 @@
         "c":"&ltli&gt",
         "d":"&lti&gt",
         "ans":"ans1"
+    },
+    {
+        "question": "Q6: HTML stands for -",
+        "a":"HighText Machine Language",
+        "b":"HyperText and links Markup Language",
+        "c":"HyperText Markup Language",
+        "d":"None of these",
+        "ans":"ans3"
+    },
+    {
+        "question": "Q7: The correct sequence of HTML tags for starting a webpage is -",
+        "a":"Head, Title, HTML, body",
+        "b":"HTML, Body, Title, Head",
+        "c":"HTML, Body, Title, Head",
+        "d":"HTML, Head, Title, Body",
+        "ans":"ans4"
+    },
+    {
+        "question": "Q8: Which of the following element is responsible for making the text bold in HTML?",
+        "a":"&ltpre&gt",
+        "b":"&lta&gt",
+        "c":"&ltb&gt",
+        "d":"&ltbr&gt",
+        "ans":"ans3"
+    },
+    {
+        "question": "Q9: Which of the following tag is used for inserting the largest heading in HTML?",
+        "a":"&lth3&gt",
+        "b":"&lth1&gt",
+        "c":"&lth5&gt",
+        "d":"&lth6&gt",
+        "ans":"ans2"
+    },
+    {
+        "question": "Q10: How to create an unordered list (a list with the list items in bullets) in HTML?",
+        "a":"&ltul&gt",
+        "b":"&ltol&gt",
+        "c":"&ltli&gt",
+        "d":"&lti&gt",
+        "ans":"ans1"
     }
 ]

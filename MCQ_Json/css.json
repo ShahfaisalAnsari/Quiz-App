@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Q1: CSS stands for -",
+        "a":"Cascade style sheets",
+        "b":"Color and style sheets",
+        "c":"Cascading style sheets",
+        "d":"None of these",
+        "ans":"ans3"
+    },
+    {
+        "question": "Q2: The property in CSS used to change the background color of an element is -",
+        "a":"bgcolor",
+        "b":"color",
+        "c":"background-color",
+        "d":"All of the above",
+        "ans":"ans3"
+    },
+    {
+        "question": "Q3: The CSS property used to control the element's font-size is -",
+        "a":"text-style",
+        "b":"text-size",
+        "c":"font-size",
+        "d":"None of the above",
+        "ans":"ans3"
+    },
+    {
+        "question": "Q4: The HTML attribute used to define the inline styles is -",
+        "a":"style",
+        "b":"styles",
+        "c":"class",
+        "d":"None of the above",
+        "ans":"ans1"
+    },
+    {
+        "question": "Q5: Which of the following CSS property is used to set the background image of an element?",
+        "a":"background-attachment",
+        "b":"background-image",
+        "c":"background-color",
+        "d":"None of the above",
+        "ans":"ans2"
+    }
+]
