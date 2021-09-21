@@ -57,7 +57,7 @@ const input =document.querySelectorAll("input")
                     <button class ="btn btn-warning" onclick = "location.reload()">Play Again</button>
                     `;
     
-                    showScore.classList.remove('scorearea')
+                    showScore.classList.remove('scorearea');
                 }
             }
             else{
