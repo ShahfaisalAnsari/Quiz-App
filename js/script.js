@@ -10,7 +10,7 @@ const input =document.querySelectorAll("input")
 
 
     var xhr = new XMLHttpRequest();
-    xhr.open("get","mcq.json", true);
+    xhr.open("get","MCQ_Json/html.json", true);
     xhr.send();
     xhr.onload=()=>{
         // console.log(ans1)
